@@ -14,7 +14,7 @@ public class QN18 {
             URI uri = new URI("https://www.example.com");
 
             
-            HttpCookie cookie = new HttpCookie("abee", "300");
+            HttpCookie cookie = new HttpCookie("name", "value");
             cookieManager.getCookieStore().add(uri, cookie);
 
         

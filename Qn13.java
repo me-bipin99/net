@@ -1,6 +1,6 @@
 import java.net.URL;
 
-public class Qn12 {
+public class Qn13 {
     public static void main(String[] args) {
         try {
             // Sample URL
